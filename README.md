@@ -1,5 +1,5 @@
 # Germany Cars R
-
+## Introduction
 Each code generates graphical views and statistical analysis based on a set of
 car data. The code presents graphs generated in R, using a database from
 kaggle called germany cars, the database has 46,405 observations and 10 variables:
@@ -22,6 +22,7 @@ used car information, including details such as mileage, make,
 model, fuel, transmission, type of offer, price, engine power, year of
 manufacture and chance of sale.
 
+## Details
 Code 1:
 
 Installs and loads the "readxl" library.
