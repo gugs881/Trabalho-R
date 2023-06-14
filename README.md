@@ -1,5 +1,27 @@
 # Trabalho-R
 
+Each code generates graphical views and statistical analysis based on a set of
+car data. The code presents graphs generated in R, using a database from
+kaggle called germany cars, the database has 46,405 observations and 10 variables:
+1. mileage: Represents the mileage of the vehicle, that is, the distance traveled by the
+car until the time of data collection.
+2. make: Refers to the make of the car, indicating the vehicle manufacturer.
+3. model: Indicates the specific model of the car, providing additional information about the
+vehicle beyond the mark.
+4. fuel: Indicates the type of fuel used by the car, such as gasoline, diesel or other.
+5. gear: Represents the vehicle's transmission type, which can be manual or automatic.
+6. offerType: Indicates whether the car is used, that is, it is being offered for sale as
+a second-hand vehicle.
+7. price: Refers to the price of the car, expressed in a monetary unit
+(probably in local currency).
+8. hp: Represents the power of the vehicle's engine, measured in horsepower (hp).
+9. year: Indicates the car's manufacturing year.
+10. chance_venda: Estimate related to the probability of selling the vehicle.
+• These are the main attributes present in the database, which provide
+used car information, including details such as mileage, make,
+model, fuel, transmission, type of offer, price, engine power, year of
+manufacture and chance of sale.
+
 Code 1:
 
 Installs and loads the "readxl" library.
@@ -64,7 +86,7 @@ Compares the average prices and determines the best cost-benefit (used or new).
 Prints the results.
 
 
-CODE:
+#Code:
 
 install.packages("readxl")
 
