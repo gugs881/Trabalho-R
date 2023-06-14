@@ -1,7 +1,8 @@
 # Germany Cars R
 ## Introduction
 Each code generates graphical views and statistical analysis based on a set of
-car data. The code presents graphs generated in R, using a database from
+car data, code was last updated on Wed Jun 09 2021 13:14:27 GMT-0300 (Brasília Standard Time).
+The code presents graphs generated in R, using a database from
 kaggle called germany cars, the database has 46,405 observations and 10 variables:
 1. mileage: Represents the mileage of the vehicle, that is, the distance traveled by the
 car until the time of data collection.
