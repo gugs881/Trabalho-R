@@ -86,7 +86,7 @@ Compares the average prices and determines the best cost-benefit (used or new).
 Prints the results.
 
 
-#Code:
+##Code:
 
 install.packages("readxl")
 
